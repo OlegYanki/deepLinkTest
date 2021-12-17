@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8SY8U2YJ38.com.letyshops",
+        "paths": [
+          "*/shops/*"
+        ]
+      }
+    ]
+  }
+}
